@@ -1,0 +1,16 @@
+/Users/ealonaweld/Projects/Activity.1/Activity.1/bin/Debug/Activity.1.exe
+/Users/ealonaweld/Projects/Activity.1/Activity.1/bin/Debug/Activity.1.pdb
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/actool/_PartialAppManifest.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/_ProcessedContentPath.items
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/Activity.1.csproj.AssemblyReference.cache
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/Activity.1.csproj.CoreCompileInputs.cache
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/Activity.1.exe
+/Users/ealonaweld/Projects/Activity.1/Activity.1/obj/Debug/Activity.1.pdb
